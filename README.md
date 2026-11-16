@@ -1,6 +1,6 @@
-# Group 13 - Dynamic Recommendation Platform
+# Dynamic Recommendation Platform
 
-A complete, integrated implementation of **Modules 1-4** for the supplied Group 13 brief. **Module 5 (Generative AI) is deliberately excluded at the user's request.** The agents here are ordinary programmed user/merchant simulators. There are no LLMs, natural-language generation services, credentials, model downloads, or external datasets.
+The agents here are ordinary programmed user/merchant simulators. There are no LLMs, natural-language generation services, credentials, model downloads, or external datasets.
 
 The system recommends affordable, available products to evolving synthetic users while measuring satisfaction, diversity and merchant exposure. It combines graph retrieval, a soft CSP, symbolic campaign planning, discounted Bayesian evidence and a learned sequential recommendation strategy.
 
